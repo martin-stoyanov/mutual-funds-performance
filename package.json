@@ -1,0 +1,25 @@
+{
+  "name": "mutual-fund-performance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 3333",
+    "build": "next build",
+    "start": "next start -p $PORT"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.5.1",
+    "d3": "^5.9.1",
+    "grommet": "^2.0.0-beta.1",
+    "grommet-controls": "^1.1.15",
+    "grommet-icons": "^4.2.0",
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "styled-components": "^4.1.3"
+  }
+}
